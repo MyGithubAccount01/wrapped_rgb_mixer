@@ -4,7 +4,7 @@
 
 Demo Project for the course.
 
-![gds](docs/rgb_mixer_gds.png
+![gds](docs/rgb_mixer_gds.png)
 
 # Zero to ASIC Course
 
